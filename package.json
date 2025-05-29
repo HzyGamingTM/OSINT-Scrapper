@@ -7,5 +7,8 @@
   },
   "author": "Sean Lam, Zheng Yong, Wen Yu",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "pkg": "^5.8.1"
+  }
 }
