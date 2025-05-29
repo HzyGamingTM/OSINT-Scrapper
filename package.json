@@ -1,0 +1,11 @@
+{
+  "name": "osint-scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Lam, Zheng Yong, Wen Yu",
+  "license": "ISC",
+  "description": ""
+}
